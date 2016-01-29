@@ -26,6 +26,7 @@ class ViewController: UIViewController {
         
         self.presentViewController(playerViewController, animated: true) {
             
+            setupRecorder()
             playerViewController.player?.play()
         
         }
