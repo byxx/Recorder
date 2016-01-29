@@ -33,6 +33,7 @@ class ViewController: UIViewController {
     
     @IBAction func RecordSyncBTN(sender: AnyObject) {
         
+        //kleine Edits fanden statt
         
     }
     
