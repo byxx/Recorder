@@ -34,6 +34,7 @@ class ViewController: UIViewController {
     @IBAction func RecordSyncBTN(sender: AnyObject) {
         
         //kleine Edits fanden statt
+        // hier auch 2. Edits fanden statt
         
     }
     
